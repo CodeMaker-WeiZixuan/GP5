@@ -49,3 +49,37 @@
 ## 查看日志
 - git log  完整版日志
 - get reflog  简单版日志
+
+## 版本回退
+- git reset --hard HEAD^ 回退到上一个版本
+- git reset --hard 版本号
+- 版本恢复的时候工作区恢复
+- 工作区的代码自动恢复
+
+## 查看变动
+- git diff 文件名
+- 会列出该文件前后的差异
+
+## 创建远程仓库
+- 进入里面的github官网
+- 创建一个新的远程仓库
+
+## 将本地仓库与远程仓库关联
+- git remote add origin 你的远程仓库地址
+- git remote -v  查看本地仓库关联的地址
+
+## 将本地仓库提交到远程仓库
+- git push -u origin master 第一次提交
+- git push 将本地仓库提交到远程仓库
+- -u origin master 设置默认的提交地址和分支
+
+
+
+
+
+
+
+
+
+
+
