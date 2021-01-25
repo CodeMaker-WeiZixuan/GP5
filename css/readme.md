@@ -79,7 +79,14 @@
 - git commit -m'注释'
 - git push 提交到本地仓库
 
-环境的符合你/
+## 修改关联的远程仓库地址
+- git remote rm origin
+- git remote add origin shh地址
+
+## 更新代码
+- 确保工作区的代码先提交到本地仓库！！！
+- 然后再远程更新到本地！！！！
+
 
 
 
