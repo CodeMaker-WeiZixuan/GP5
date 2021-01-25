@@ -74,6 +74,13 @@
 - -u origin master 设置默认的提交地址和分支
 
 
+## 正常提交（第一次提交）
+- git add .
+- git commit -m'注释'
+- git push 提交到本地仓库
+
+环境的符合你/
+
 
 
 
