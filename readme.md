@@ -50,6 +50,7 @@
 - git log  完整版日志
 - get reflog  简单版日志
 
+<<<<<<< HEAD:readme.md
 ## 版本回退
 - git reset --hard HEAD^ 回退到上一个版本
 - git reset --hard 版本号
@@ -92,3 +93,10 @@
 
 
 
+=======
+## 正常提交 
+- 
+- 
+
+## 其他人提交.....
+>>>>>>> f818198309e246b7e11276b4b667bd959cdf671a:css/readme.md
